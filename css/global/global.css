@@ -17,6 +17,7 @@ a {
 
 img {
   max-width: 100%;
+  height: auto;
   display: block;
 }
 
@@ -29,6 +30,7 @@ h2,
 h3,
 h4,
 p,
-blockquote {
+blockquote,
+dd {
   margin: 0px;
 }
